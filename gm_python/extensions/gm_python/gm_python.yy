@@ -217,6 +217,30 @@
             ],
             "origname": "",
             "uncompress": false
+        },
+        {
+            "id": "b0cb9f15-6a40-4b49-b0d3-c13f9f1afe97",
+            "modelName": "GMExtensionFile",
+            "mvc": "1.0",
+            "ProxyFiles": [
+                
+            ],
+            "constants": [
+                
+            ],
+            "copyToTargets": -1,
+            "filename": "python37.zip",
+            "final": "",
+            "functions": [
+                
+            ],
+            "init": "",
+            "kind": 4,
+            "order": [
+                
+            ],
+            "origname": "",
+            "uncompress": false
         }
     ],
     "gradleinject": "",
